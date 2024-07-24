@@ -1,0 +1,18 @@
+/* This is a CSS comment */
+body {
+    background-color: #000; /* Black background */
+    color: #FFF; /* White text color */
+  }
+  
+  h2 {
+    color: #FFF; /* White heading color */
+  }
+  
+  ul {
+    color: #FFF; /* White list text color */
+  }
+  
+  img {
+    border: 1px solid #FFF; /* White border around images */
+  }
+  
